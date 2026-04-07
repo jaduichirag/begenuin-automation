@@ -1,0 +1,28 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd">
+
+<suite name="BeGenuin Suite">
+    <listeners>
+    <!-- <listener class-name="utils.ExtentTestListener"/> -->
+
+    </listeners>
+
+    <test name="All Tests">
+        <classes>
+            <class name="tests.ButtonTest"/>
+            <class name="tests.CompanyTest"/>
+            <class name="tests.GenAIChatTest"/>
+            <class name="tests.GenAiDevToolsTest"/>
+            <class name="tests.GenAiTest"/>
+            <class name="tests.HeaderTest"/>
+            <class name="tests.HeroTest"/>
+            <class name="tests.HomePageTest"/>
+            <class name="tests.NavigationTest"/>
+            <class name="tests.PlatformButtonTest"/>
+            <class name="tests.PlatformCommunityTest"/>
+            <class name="tests.PlatformFeatureTest"/>
+            <class name="tests.PlatformGeneralTest"/>
+            <class name="tests.PlatformHeaderTest"/>
+            <class name="tests.PlatformHeroTest"/>
+        </classes>
+    </test>
+</suite>
