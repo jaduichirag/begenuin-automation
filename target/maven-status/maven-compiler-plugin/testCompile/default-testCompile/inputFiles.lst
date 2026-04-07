@@ -2,6 +2,7 @@ D:\test\Project\begenuin-automation\src\test\java\base\BaseTest.java
 D:\test\Project\begenuin-automation\src\test\java\pages\CompanyPage.java
 D:\test\Project\begenuin-automation\src\test\java\pages\GenAiPage.java
 D:\test\Project\begenuin-automation\src\test\java\pages\HomePage.java
+D:\test\Project\begenuin-automation\src\test\java\pages\LoginPage.java
 D:\test\Project\begenuin-automation\src\test\java\pages\PlatformPage.java
 D:\test\Project\begenuin-automation\src\test\java\tests\ButtonTest.java
 D:\test\Project\begenuin-automation\src\test\java\tests\CompanyTest.java
@@ -11,6 +12,7 @@ D:\test\Project\begenuin-automation\src\test\java\tests\GenAiTest.java
 D:\test\Project\begenuin-automation\src\test\java\tests\HeaderTest.java
 D:\test\Project\begenuin-automation\src\test\java\tests\HeroTest.java
 D:\test\Project\begenuin-automation\src\test\java\tests\HomePageTest.java
+D:\test\Project\begenuin-automation\src\test\java\tests\LoginTest.java
 D:\test\Project\begenuin-automation\src\test\java\tests\NavigationTest.java
 D:\test\Project\begenuin-automation\src\test\java\tests\PlatformButtonTest.java
 D:\test\Project\begenuin-automation\src\test\java\tests\PlatformCommunityTest.java
